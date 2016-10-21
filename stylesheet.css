@@ -1,7 +1,7 @@
-p {
-    font-size: 50px;
-}
+.moveright {
+    padding-left: 10px;
+}	
 
-span {
-	/*Add your CSS here!*/
+.serious {
+	font-weight: bold;
 }
